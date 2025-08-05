@@ -41,5 +41,5 @@ This separation allows for easier testing, scalability, and maintenance.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/leeerrrrmmm/NetflixClone.git
-   cd NetflixClone
+   git clone https://github.com/leeerrrrmmm/netflix.git
+   cd netflix
